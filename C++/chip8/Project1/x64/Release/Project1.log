@@ -1,0 +1,12 @@
+﻿  chip8.cpp
+C:\Users\rogue\source\repos\chip8.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rogue\source\repos\chip8.cpp(50,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\rogue\source\repos\chip8.cpp(371,13): error C2065: 'draw_flag': undeclared identifier
+C:\Users\rogue\source\repos\chip8.cpp(377,21): error C2065: 'screen_state': undeclared identifier
+C:\Users\rogue\source\repos\chip8.cpp(379,21): error C2065: 'screen_state': undeclared identifier
+C:\Users\rogue\source\repos\chip8.cpp(384,25): error C2601: 'CPU::updateTimer': local function definitions are illegal
+C:\Users\rogue\source\repos\chip8.cpp(57): message : this line contains a '{' which has not yet been matched
+C:\Users\rogue\source\repos\chip8.cpp(57): fatal error C1075: '{': no matching token found
+  main.cpp
+  emulator.cpp
+F:\Chip-8 in various languages\C++\chip8\Project1\emulator.cpp(5,10): fatal error C1083: Cannot open include file: 'chip_8.h': No such file or directory

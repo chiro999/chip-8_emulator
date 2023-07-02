@@ -1,0 +1,6 @@
+﻿  chip8.cpp
+C:\Users\rogue\source\repos\chip8.cpp(118,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rogue\source\repos\chip8.cpp(196,33): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\rogue\source\repos\chip8.cpp(215,37): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\rogue\source\repos\chip8.cpp(281,20): warning C4553: '==': result of expression not used; did you intend '='?
+  Project1.vcxproj -> F:\Chip-8 in various languages\C++\chip8\x64\Debug\Project1.exe
