@@ -11,4 +11,4 @@ Sixteen 8-bit registers (V0-VF)
 64x32 bit frame buffer
 16-bit program counter
 
-#This program does not handle sound
+## This program does not handle sound
